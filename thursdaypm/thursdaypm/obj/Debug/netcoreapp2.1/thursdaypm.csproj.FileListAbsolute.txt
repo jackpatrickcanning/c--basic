@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\thursdaypm\thursdaypm\bin\Debug\netcoreapp2.1\thursdaypm.deps.json
+C:\Users\Administrator\source\repos\thursdaypm\thursdaypm\bin\Debug\netcoreapp2.1\thursdaypm.runtimeconfig.json
+C:\Users\Administrator\source\repos\thursdaypm\thursdaypm\bin\Debug\netcoreapp2.1\thursdaypm.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\thursdaypm\thursdaypm\bin\Debug\netcoreapp2.1\thursdaypm.dll
+C:\Users\Administrator\source\repos\thursdaypm\thursdaypm\bin\Debug\netcoreapp2.1\thursdaypm.pdb
+C:\Users\Administrator\source\repos\thursdaypm\thursdaypm\obj\Debug\netcoreapp2.1\thursdaypm.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\thursdaypm\thursdaypm\obj\Debug\netcoreapp2.1\thursdaypm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\thursdaypm\thursdaypm\obj\Debug\netcoreapp2.1\thursdaypm.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\thursdaypm\thursdaypm\obj\Debug\netcoreapp2.1\thursdaypm.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\thursdaypm\thursdaypm\obj\Debug\netcoreapp2.1\thursdaypm.dll
+C:\Users\Administrator\source\repos\thursdaypm\thursdaypm\obj\Debug\netcoreapp2.1\thursdaypm.pdb
