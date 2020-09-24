@@ -1,0 +1,11 @@
+c:\users\administrator\source\repos\ISTHURSDAYY\ISTHURSDAYY\bin\Debug\netcoreapp2.1\ISTHURSDAYY.deps.json
+c:\users\administrator\source\repos\ISTHURSDAYY\ISTHURSDAYY\bin\Debug\netcoreapp2.1\ISTHURSDAYY.runtimeconfig.json
+c:\users\administrator\source\repos\ISTHURSDAYY\ISTHURSDAYY\bin\Debug\netcoreapp2.1\ISTHURSDAYY.runtimeconfig.dev.json
+c:\users\administrator\source\repos\ISTHURSDAYY\ISTHURSDAYY\bin\Debug\netcoreapp2.1\ISTHURSDAYY.dll
+c:\users\administrator\source\repos\ISTHURSDAYY\ISTHURSDAYY\bin\Debug\netcoreapp2.1\ISTHURSDAYY.pdb
+c:\users\administrator\source\repos\ISTHURSDAYY\ISTHURSDAYY\obj\Debug\netcoreapp2.1\ISTHURSDAYY.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\ISTHURSDAYY\ISTHURSDAYY\obj\Debug\netcoreapp2.1\ISTHURSDAYY.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\ISTHURSDAYY\ISTHURSDAYY\obj\Debug\netcoreapp2.1\ISTHURSDAYY.AssemblyInfoInputs.cache
+c:\users\administrator\source\repos\ISTHURSDAYY\ISTHURSDAYY\obj\Debug\netcoreapp2.1\ISTHURSDAYY.AssemblyInfo.cs
+c:\users\administrator\source\repos\ISTHURSDAYY\ISTHURSDAYY\obj\Debug\netcoreapp2.1\ISTHURSDAYY.dll
+c:\users\administrator\source\repos\ISTHURSDAYY\ISTHURSDAYY\obj\Debug\netcoreapp2.1\ISTHURSDAYY.pdb
